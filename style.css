@@ -1,0 +1,81 @@
+body{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.topnav ul{
+    display: flex;
+    gap: 40px;
+    float: right;
+    margin-top: -40px;
+
+
+}
+.topnav h4{
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.topnav ul li{
+    
+    text-decoration: none;
+    list-style: none;
+}
+.topnav ul li a{
+    
+    text-decoration: none;
+    font-size: 20px;
+    color: darkcyan;
+   
+    
+}
+
+.topnav ul li h4{
+    
+   float: left;
+}
+.arrow{
+    float: right;
+}
+.vet{
+    display: flex;
+    gap: 30%;
+}
+.bigletter{
+    font-size: 70px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.btn1{
+    padding: 15px 50px;
+    border-radius: 15px;
+    background-color: darkcyan;
+    color: white;
+    font-weight: bold;
+}
+.play span{
+    gap: 10px;
+}
+.services{
+    display: flex;
+    gap: 7%;
+}
+.services2{
+    margin-bottom:;
+}
+.rad{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+}
+
+
+/* footer */
+.foot{
+    display: flex;
+    gap: 18%;
+    margin-left: 18%;
+}
