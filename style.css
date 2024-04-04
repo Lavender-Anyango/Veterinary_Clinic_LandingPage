@@ -4,6 +4,11 @@ body {
     margin-right: 4%;
     font-size: 20px;
 }
+.colr{
+    background-color: #E4F2F2;
+    padding-left: 3%;
+    padding-right: 3%;
+}
 
 .topnav ul {
     display: flex;
@@ -34,10 +39,11 @@ body {
 
 .arrow {
     float: right;
-    color: darkcyan;
+    color:#1CA6A6;
 }
 
 .vet {
+    background-color: #E4F2F2;
     display: flex;
     gap: 30%;
 }
@@ -55,9 +61,10 @@ body {
 .btn1 {
     padding: 15px 50px;
     border-radius: 15px;
-    background-color: darkcyan;
+    background-color: #1CA6A6;
     color: white;
     font-weight: bold;
+    border-color: white;
 }
 
 .play span {
@@ -80,6 +87,7 @@ body {
 .bestvet {
     display: flex;
     gap: 20%;
+    background-color: #E4F2F2;
 }
 
 .bestvet img {
@@ -96,7 +104,8 @@ body {
 }
 
 .inputfield {
-    padding: 15px 153px;
+    padding: 25px 153px;
+    border: none;
 }
 
 .icon {
@@ -105,6 +114,12 @@ body {
 }
 .blogpic{
     width: 50px;
+
+}
+.s{
+    font-size: 30px;
+    color: #F27D16;
+    font-weight: bolder;
 
 }
 
